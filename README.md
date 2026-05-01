@@ -1,1 +1,1 @@
-# gomining-insights.github.io
+"# gomining-insights" 
