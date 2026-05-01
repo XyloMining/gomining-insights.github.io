@@ -1,0 +1,1 @@
+# gomining-insights.github.io
